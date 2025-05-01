@@ -1,0 +1,194 @@
+Weight,Height,BMI,Gender,Age,BMIcase,Goal,Exercise Plan,Exercise Progression,Diet Plan,Recovery Plan,Health Metrics
+55,153,23.5,Female,22,Normal,Muscle Building,"1. Strength Training (4x/week):
+   - Day 1: Lower Body
+     * Squats: 4 sets x 8-12 reps (2 min rest)
+     * Romanian Deadlifts: 3 sets x 10-12 reps (90 sec rest)
+     * Bulgarian Split Squats: 3 sets x 10 reps each leg
+   - Day 2: Upper Body
+     * Bench Press: 4 sets x 8-12 reps (2 min rest)
+     * Pull-ups: 3 sets x 6-10 reps (90 sec rest)
+     * Shoulder Press: 3 sets x 10-12 reps
+   - Day 3: Full Body
+     * Deadlifts: 4 sets x 6-8 reps (2.5 min rest)
+     * Push-ups: 3 sets x 12-15 reps
+     * Core Circuit
+   - Day 4: Accessory Work
+     * Bicep Curls: 3 sets x 12 reps
+     * Tricep Extensions: 3 sets x 12 reps
+     * Calf Raises: 4 sets x 15 reps","Progression Rules:
+1. Increase weight when you can complete all reps with good form
+2. Add 2.5kg to upper body, 5kg to lower body
+3. Track all workouts in a log
+4. Aim for 1-2 more reps each week
+5. Deload every 4-6 weeks","1. Macronutrient Split:
+   - Protein: 2.2g per kg (121g)
+   - Carbs: 3.5g per kg (193g)
+   - Fats: 0.8g per kg (44g)
+2. Meal Timing:
+   - Pre-workout (1-2 hours before):
+     * 30g protein + 40g carbs
+     * Example: Chicken + rice
+   - Post-workout (within 30 min):
+     * 40g protein + 50g carbs
+     * Example: Protein shake + banana
+   - Other meals:
+     * Breakfast: Oatmeal + eggs + nuts
+     * Lunch: Lean meat + sweet potato + veggies
+     * Dinner: Fish + quinoa + greens
+3. Supplements:
+   - Whey Protein
+   - Creatine (5g daily)
+   - BCAA (during workout)
+   - Multivitamin
+   - Omega-3","1. Sleep:
+   - 7-9 hours nightly
+   - Consistent sleep schedule
+2. Active Recovery:
+   - Light cardio: 20-30 min
+   - Yoga/stretching: 30 min
+3. Mobility Work:
+   - Daily: 10 min dynamic stretching
+   - Post-workout: 15 min static stretching
+4. Recovery Tools:
+   - Foam rolling: 10 min daily
+   - Massage: Weekly if possible","1. Heart Rate Zones:
+   - Zone 1 (50-60%): Recovery
+   - Zone 2 (60-70%): Endurance
+   - Zone 3 (70-80%): Aerobic
+   - Zone 4 (80-90%): Anaerobic
+   - Zone 5 (90-100%): Max Effort
+2. Progress Tracking:
+   - Weekly measurements
+   - Monthly progress photos
+   - Strength log
+   - Body composition every 4 weeks"
+
+65,170,22.5,Female,30,Normal,Fat Loss,"1. HIIT Training (3x/week):
+   - Circuit 1 (3 rounds):
+     * Burpees: 45 sec
+     * Mountain Climbers: 45 sec
+     * Jump Squats: 45 sec
+     * Rest: 60 sec
+   - Circuit 2 (3 rounds):
+     * Kettlebell Swings: 45 sec
+     * Battle Ropes: 45 sec
+     * Box Jumps: 45 sec
+     * Rest: 60 sec
+2. Strength Training (2x/week):
+   - Compound lifts
+   - High reps, short rest
+3. Cardio (2x/week):
+   - 30-45 min steady state","Progression Rules:
+1. Increase intensity by 5% weekly
+2. Reduce rest periods by 5 sec
+3. Add 1 more round to circuits
+4. Track heart rate zones
+5. Weekly performance tests","1. Macronutrient Split:
+   - Protein: 2g per kg (130g)
+   - Carbs: 2g per kg (130g)
+   - Fats: 0.6g per kg (39g)
+2. Meal Timing:
+   - Pre-workout: 20g protein + 30g carbs
+   - Post-workout: 30g protein + 40g carbs
+   - Other meals: Balanced portions
+3. Intermittent Fasting:
+   - 16:8 protocol
+   - Training in fasted state
+4. Supplements:
+   - Fat Burner
+   - Green Tea Extract
+   - CLA","1. Sleep: 7-8 hours
+2. Active Recovery:
+   - Walking: 10k steps daily
+   - Yoga: 2x/week
+3. Recovery Tools:
+   - Foam rolling
+   - Cold showers
+4. Stress Management:
+   - Meditation: 10 min daily","1. Heart Rate Monitoring
+2. Daily Steps Tracking
+3. Weekly Measurements
+4. Progress Photos"
+
+85,180,26.2,Male,35,Overweight,General Fitness,"1. Full Body Workout (3x/week):
+   - Squat variations
+   - Push-up variations
+   - Pull-up progressions
+   - Core exercises
+2. Cardio (3x/week):
+   - Walking: 30 min
+   - Cycling: 20 min
+   - Swimming: 20 min
+3. Mobility (2x/week):
+   - Dynamic stretching
+   - Yoga basics","Progression Rules:
+1. Start with bodyweight
+2. Focus on form
+3. Gradual intensity increase
+4. Weekly progress tracking","1. Macronutrient Split:
+   - Protein: 1.8g per kg (153g)
+   - Carbs: 2.5g per kg (213g)
+   - Fats: 0.7g per kg (60g)
+2. Meal Plan:
+   - Balanced portions
+   - Whole foods
+   - Regular meal timing
+3. Supplements:
+   - Multivitamin
+   - Omega-3
+   - Protein powder","1. Sleep: 7-8 hours
+2. Active Recovery:
+   - Walking
+   - Stretching
+3. Recovery Tools:
+   - Foam rolling
+   - Massage","1. Basic Health Metrics
+2. Weekly Progress Check
+3. Form Assessment"
+
+90,175,29.4,Male,40,Obese,"1. Low Impact Training (5x/week):
+   - Walking: 45 minutes
+   - Swimming: 30 minutes
+   - Stationary Bike: 20 minutes
+2. Strength (2x/week):
+   - Bodyweight Exercises
+   - Resistance Bands
+3. Stretching (Daily):
+   - 15 minutes flexibility work","1. Macronutrient Split:
+   - Protein: 1.8g per kg body weight
+   - Carbs: 1.5g per kg body weight
+   - Fats: 0.5g per kg body weight
+2. Meal Plan:
+   - Breakfast: Protein shake with fiber
+   - Lunch: Chicken salad
+   - Dinner: Steamed fish with vegetables
+3. Supplements:
+   - Fiber Supplement
+   - Vitamin B Complex
+   - Probiotics"
+
+50,155,20.8,Female,20,Underweight,"1. Hypertrophy Training (4x/week):
+   - Bench Press: 4 sets x 8 reps
+   - Squats: 4 sets x 8 reps
+   - Deadlifts: 4 sets x 6 reps
+2. Accessory Work (3x/week):
+   - Bicep Curls: 3 sets x 12 reps
+   - Tricep Extensions: 3 sets x 12 reps
+3. Recovery (2x/week):
+   - Light Cardio: 20 minutes","1. Macronutrient Split:
+   - Protein: 2.2g per kg body weight
+   - Carbs: 4g per kg body weight
+   - Fats: 1g per kg body weight
+2. Meal Plan:
+   - Breakfast: High-protein pancakes
+   - Lunch: Beef with rice
+   - Dinner: Pasta with chicken
+3. Supplements:
+   - Mass Gainer
+   - Creatine
+   - Pre-workout"
+
+70,175,22.86,Male,25,Normal,Intermediate Strength Training,Balanced Diet (2500 calories)
+60,160,23.44,Female,35,Normal,Yoga and Pilates,Maintenance Diet (1900 calories)
+95,180,29.32,Male,45,Obese,Swimming and Walking,Weight Loss Diet (2000 calories)
+80,175,26.12,Male,32,Overweight,Circuit Training,Calorie Deficit (2300 calories) 
